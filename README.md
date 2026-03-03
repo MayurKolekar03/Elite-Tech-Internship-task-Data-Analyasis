@@ -5,7 +5,7 @@ This repository contains all tasks completed during my Data Analytics Internship
 ## Tasks:
 
 1. Big Data Analysis (Completed)
-2. Predictive Analysis (Pending)
+2. Predictive Analysis (Completed)
 3. Dashboard Development (Pending)
 4. Sentiment Analysis (Pending)
 
