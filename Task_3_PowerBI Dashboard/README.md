@@ -37,9 +37,6 @@ Earthquake dataset containing:
 * Depth
 * Time information
 
-## 📷 Dashboard Preview
-
-![Dashboard](dashboard_preview.png)
 
 ## 📌 Insights
 
